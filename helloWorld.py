@@ -1,3 +1,3 @@
-# This program will print hello world message
+# This program will print "Git is Awesome!"
 print("Git is Awesome!")
 
